@@ -1,1 +1,2 @@
 Git bash test
+New feature developed
